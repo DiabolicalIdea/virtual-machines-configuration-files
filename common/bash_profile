@@ -1,6 +1,7 @@
 #
 # ~/.bash_profile
 #
+teraz tez
 kurwa dzialaj
 [[ -f ~/.extend.bash_profile ]] && . ~/.extend.bash_profile
 [[ -f ~/.bashrc ]] && . ~/.bashrc
