@@ -1,7 +1,7 @@
 #
 # ~/.bash_profile
 #
-
+kurwa dzialaj
 [[ -f ~/.extend.bash_profile ]] && . ~/.extend.bash_profile
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
